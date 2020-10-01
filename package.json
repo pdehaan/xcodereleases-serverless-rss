@@ -1,6 +1,6 @@
 {
   "name": "vercel-serverless",
-  "description": "",
+  "description": "Convert xcodereleases.com/data.json to an RSS feed so we can subscribe in Slack",
   "version": "1.0.0",
   "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
   "bugs": {
@@ -11,7 +11,7 @@
     "jstoxml": "^1.6.11"
   },
   "devDependencies": {},
-  "homepage": "https://github.com/pdehaan/xcodereleases-serverless-rss#readme",
+  "homepage": "https://xcodereleases-serverless-rss.pdehaan.vercel.app/api/json-to-rss",
   "keywords": [],
   "license": "MPL-2.0",
   "main": "index.js",
