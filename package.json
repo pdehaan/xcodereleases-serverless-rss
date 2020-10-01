@@ -1,0 +1,26 @@
+{
+  "name": "vercel-serverless",
+  "description": "",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "bugs": {
+    "url": "https://github.com/pdehaan/xcodereleases-serverless-rss/issues"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "jstoxml": "^1.6.11"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/pdehaan/xcodereleases-serverless-rss#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/xcodereleases-serverless-rss.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
